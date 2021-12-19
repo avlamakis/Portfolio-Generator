@@ -8,8 +8,11 @@ HTML, CSS, JavaSript, Node.JS, Inquirer, NPM
 
 ## Contribution and Download Links 
 Made by myself, Alexandros Vlamakis. Utilized the following resources/downloads on the project:
+
 -https://www.npmjs.com/
+
 -https://www.npmjs.com/package/inquirer
+
 -https://nodejs.org/en/
 
 ## Guide
